@@ -90,7 +90,7 @@ class VariationalBayesianMemory:
             self.qs_probs_init = (1.0 / tf.cast(float(self.num_clusters), dtype=tf.float32)) * tf.ones(dtype=tf.float32, shape=[batch_size, self.episode_len, self.num_clusters]) # [b, t, h]
             write_loop_init_vars = (0, self.qMb_init, self.qs_probs_init, self.Mu_W_init, self.Sigma_w_init)
             write_loop_cond = lambda i, *_: i < self.opt_iters
-            def write_loop_body(i, qMb, qs_probs, Mu_W, Sigma_w, mask):
+            def write_loop_body(i, qMb, qs_probs, Mu_W, Sigma_w):
                 
                 R = qMb.R
                 U = qMb.U
