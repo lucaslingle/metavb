@@ -40,8 +40,8 @@ The third subfolder contains code for our more sophisticated models, which serve
 
 ## Misc.
 
-Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements,
-the resulting code is somewhat messy. For simplicity, we provide the code as-is, rather than refactoring.
+Please note that this is a research codebase and most of our efforts were focused on algorithmic improvements, rather than beautiful code.
+To simplify our lives, we provide the code as-is, rather than refactoring.
 
 If you find the code or paper helpful in your research, please cite the following bibtex:
 ```
