@@ -41,8 +41,7 @@ The third subfolder contains code for our more sophisticated models, which serve
 ## Misc.
 
 Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements,
-the resulting code is somewhat messy. For full reproducibility purposes and out of sheer laziness,  
-we provide the code as-is, rather than refactoring.
+the resulting code is somewhat messy. For simplicity, we provide the code as-is, rather than refactoring.
 
 If you find the code or paper helpful in your research, please cite the following bibtex:
 ```
