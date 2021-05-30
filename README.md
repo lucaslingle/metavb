@@ -40,15 +40,16 @@ The third subfolder contains code for our more sophisticated models, which serve
 
 ## Misc.
 
-Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements and time efficiency, our code remains less beautiful than it ultimately could.
+Please note that this is a research codebase and is therefore somewhat messy!
+For full reproducibility purposes, we provide the code as-is, rather than refactoring.
 
 If you find the code or paper helpful in your research, please cite the following bibtex:
 ```
 @article{Lingle2021,
-    title = {Meta-Learning with Variational Bayes},
-    author = {Lucas D. Lingle},
-    journal = {arXiv preprint arxiv:2103.02265},
-    year = {2021}
+  title = {Meta-Learning with Variational Bayes},
+  author = {Lucas D. Lingle},
+  journal = {arXiv preprint arxiv:2103.02265},
+  year = {2021}
 }
 ```
 
