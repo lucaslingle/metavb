@@ -40,7 +40,7 @@ The third subfolder contains code for our more sophisticated models, which serve
 
 ## Misc.
 
-Please note that this is a research codebase and is unfortunately somewhat messy, as most of our efforts were focused on algorithmic improvements and time efficiency, rather than writing beautiful code.
+Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements and time efficiency, our code remains less beautiful than it ultimately could.
 
 If you find the code or paper helpful in your research, please cite the following bibtex:
 ```
