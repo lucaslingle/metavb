@@ -40,7 +40,8 @@ The third subfolder contains code for our more sophisticated models, which serve
 
 ## Misc.
 
-Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements and time efficiency, our code remains less beautiful than it ultimately could.
+Please note that this is a research codebase and as most of our efforts were focused on algorithmic improvements and time efficiency, so the codebase remains less beautiful than it ultimately should be.
+We appreciate the reader's patience in this regard. 
 
 If you find the code or paper helpful in your research, please cite the following bibtex:
 ```
